@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://laomohouzi.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-11-23T12:39:20.358Z</updated>
+    <updated>2019-11-23T12:51:24.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://laomohouzi.github.io/"/>
     <link rel="self" href="https://laomohouzi.github.io//atom.xml"/>
@@ -11,35 +11,41 @@
     <icon>https://laomohouzi.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://laomohouzi.github.io//post/hello-gridea</id>
-        <link href="https://laomohouzi.github.io//post/hello-gridea">
+        <title type="html"><![CDATA[Win10自带截图功能的若干种操作，无需额外的软件]]></title>
+        <id>https://laomohouzi.github.io//post/win10-zi-dai-jie-tu-gong-neng-de-ruo-gan-chong-cao-zuo-wu-xu-e-wai-de-ruan-jian</id>
+        <link href="https://laomohouzi.github.io//post/win10-zi-dai-jie-tu-gong-neng-de-ruo-gan-chong-cao-zuo-wu-xu-e-wai-de-ruan-jian">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2019-11-23T12:47:33.000Z</updated>
+        <content type="html"><![CDATA[<p>许多基佬都说更喜欢用快捷键，其实用快捷键截图的文章我也写过，而且应该是win10上不借助其它工具的所有截图的快捷键了（如果还有，请大佬补充）<br>
+这篇文章给大家介绍几种电脑自带的截图方式，以及它们的使用场景或者优缺点。</p>
+<p>PrintScreen(笔记本简写为prt sc）<br>
+这个按键是键盘上专门用于截图的按键，在任意窗口处按下这个键，它就会截取整个画面</p>
+<p><img src="https://laomohouzi.github.io//post-images/1574513357037.jpg" alt=""><br>
+优点：可截取任意窗口（可以截取右键的菜单窗口）<br>
+缺点：只能截取全屏，需要后期编辑，截取后不能直接保存为文件</p>
+<p>Alt+PrintScreen 截取活动窗口<br>
+这组快捷键可以截取当前的活动窗口，但是如果你想截取右击之后的菜单项，这组快捷键就无能为力了，按下alt键就会右键菜单就会关闭<br>
+优点：可以截取指定窗口<br>
+缺点：不能截取任意大小的照片，截取后不能直接保存为文件，右键窗口不能截取</p>
+<p>Win+PrintScreen<br>
+保存整屏的截图到C:\Users\XXX\Pictures\屏幕截图<br>
+<img src="https://laomohouzi.github.io//post-images/1574513398038.jpg" alt=""></p>
+<p>优点：直接保存为文件<br>
+缺点：不能截取任意大小的照片</p>
+<p>Alt+Win+PrintScreen<br>
+保存活动窗口的截图到C:\Users\XXX\Videos\Captures<br>
+<img src="https://laomohouzi.github.io//post-images/1574513420595.jpg" alt=""></p>
+<p>有人会好奇为什么截图会保存到Video文件夹里，因为这个是用的Xbox直播的截图功能，截图就和视频保存到一起了，在Xbox可以设置这组快捷键</p>
+<p><img src="https://laomohouzi.github.io//post-images/1574513436056.jpg" alt=""><br>
+优点：直接保存为文件<br>
+缺点：不能截取任意大小的照片</p>
+<p>Win+Shift+S</p>
+<p>个人比较推荐这一个，因为当你需要截取一个右键菜单栏的时候，一旦按下其它的键菜单栏就会没有，而这个就比较万能。</p>
+<p>这组快捷键集中了上面截图方式的优点，按下这组快捷键之后，可以截取任意大小的图片，截取之后可以点击右下角的通知进行编辑或者保存截图<br>
+<img src="https://laomohouzi.github.io//post-images/1574513455905.jpg" alt=""></p>
+<p>优点：以上所有优点<br>
+缺点：部分特殊的截图还是不能实现，比如长截图和任意形状的截图。另外就是截图完之后不能进行二次调节，只有一次机会受虐滑稽<br>
+#Windows10# #笔记本电脑#</p>
 ]]></content>
     </entry>
 </feed>
