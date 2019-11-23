@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://laomohouzi.github.io/</id>
     <title>一个简单的义务教育网站</title>
-    <updated>2019-11-23T14:13:36.527Z</updated>
+    <updated>2019-11-23T14:33:33.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://laomohouzi.github.io/"/>
     <link rel="self" href="https://laomohouzi.github.io//atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://laomohouzi.github.io//images/avatar.png</logo>
     <icon>https://laomohouzi.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 一个简单的义务教育网站</rights>
+    <entry>
+        <title type="html"><![CDATA[【Pr教程】你可以学Pr-初识篇]]></title>
+        <id>https://laomohouzi.github.io//post/pr-jiao-cheng-ni-ke-yi-xue-pr-chu-shi-pian</id>
+        <link href="https://laomohouzi.github.io//post/pr-jiao-cheng-ni-ke-yi-xue-pr-chu-shi-pian">
+        </link>
+        <updated>2019-11-23T14:26:15.000Z</updated>
+        <content type="html"><![CDATA[<p>我，朔，一个剪视频的馄饨，视频剪辑算是我勉强掌握的一门技能。</p>
+<p>Premiere Pro，常用视频剪辑软件之一，以后的系列图文均会以此软件为演示。（我电脑上安装的是Pr CC 2018）</p>
+<p>今天的图文就是Pr初识篇，先对Pr有一个初步的了解。我会尽量把细节说清楚，让初学者们能够更好的入坑（划掉）入门😁</p>
+<p>如何开始视频剪辑之旅？<br>
+<img src="https://laomohouzi.github.io//post-images/1574519426423.jpg" alt=""></p>
+<p>开始界面</p>
+<p>打开Pr，在开始页面点击“新建项目”，随即会再弹出一个对话框。<br>
+<img src="https://laomohouzi.github.io//post-images/1574519424161.jpg" alt=""></p>
+<p>新建项目对话框</p>
+<p>在这个对话框当中，你可以对这个视频项目命名、设置文件存放的位置以及对操作的视频一些常规设置，下面的那些设置如果不是特殊情况，保持默认设置即可。</p>
+<p>接下来，就算是掀开了Pr的第一层面纱了。<br>
+<img src="https://laomohouzi.github.io//post-images/1574519436232.jpg" alt=""></p>
+<p>常用面板由五个小面板组成，左上为源面板、效果控件面板、音频剪辑混合器等组成的一个面板组，右上为节目面板，左下为项目面板、效果面板等组成的面板组，下中为工具面板，右下为时间轴面板。<br>
+<img src="https://laomohouzi.github.io//post-images/1574519446909.jpg" alt=""></p>
+<p>工具栏一共有八个工具，这些工具可以在时间轴面板上对音视频轨道进行操作。由上至下分别为：选择工具、向前选择轨道工具（此处“向前”指的是时间数大的方向）、波纹删除工具、剃刀工具、外划工具、钢笔工具、手形工具和文字工具。<br>
+<img src="https://laomohouzi.github.io//post-images/1574519458110.jpg" alt=""></p>
+<p>在项目面版区域有“导入媒体以开始”的字样，双击此区域内的任意位置，就可打开文件管理器，将你需要操作的视频、音频、图片等文件导入到这个项目当中，以便进行下一步的操作。</p>
+<p>接下来就是要创建一个视频序列。<br>
+有三种方法：<br>
+一、菜单栏“文件”-“新建”-“序列”<br>
+二、CTRL+N<br>
+三、将项目面板中的素材拖入到时间轴面板之中<br>
+<img src="https://laomohouzi.github.io//post-images/1574519471236.jpg" alt=""></p>
+<p>已创建好序列的窗口</p>
+<p>节目面板会显示序列之中的内容，时间轴面板区会显示出多条轨道，上方三条为视频轨道、下方三条为音频轨道（可以另外增加轨道数量）<br>
+<img src="https://laomohouzi.github.io//post-images/1574519481920.jpg" alt=""></p>
+<p>已经被切成两段的视频</p>
+<p>想要把视频剪断，先拖动时间轴上的蓝色光标，确认你需要删除的位置，在工具栏之中选择剃刀工具（快捷方式：在输入法为英文状态时按“c”），在视频轴上蓝色光标的位置单击，就可以把视频剪断。<br>
+<img src="https://laomohouzi.github.io//post-images/1574519492617.jpg" alt=""></p>
+<p>其实视频剪辑上手还是比较简单的，在我眼里比PS简单多了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Ps教程】快速入门Adobe Photoshop]]></title>
         <id>https://laomohouzi.github.io//post/ps-jiao-cheng-kuai-su-ru-men-adobe-photoshop</id>
